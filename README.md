@@ -1,0 +1,2 @@
+# MetaGross
+Learning Alg Trading
